@@ -22,3 +22,6 @@ Follow these steps to run the project locally:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/yourusername/kelly-virtual-assistant.git
+
+   cd kelly-virtual-assistant
+
