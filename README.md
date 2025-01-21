@@ -72,7 +72,7 @@ Have feedback, ideas, or just want to chat? Reach out to me:
  
 ---
 
-Enjoy the game, and don’t forget to ⭐ the repo if you like it! 🥳✨  
+Enjoy Kelly, and don’t forget to ⭐ the repo if you like it! 🥳✨  
 
 
 
