@@ -9,7 +9,7 @@ An interactive assistant built with **HTML**, **CSS**, and **JavaScript**. Ready
 
 ## 🌟 Features  
 - **🎙️ Voice Input**: Speak to Kelly and get instant responses.    
-- **🤖 Interactive Gameplay**: Take on the computer and see who’s the ultimate champion!  
+- **🎨 Responsive Design**: Optimized for both desktop 🖥️ and mobile 📱 devices.  
 - **✨ Sleek Animations**: Smooth transitions and effects that bring the game to life.  
 - **🏆 Live Score Tracker**: Keep tabs on your wins, losses, and ties in real-time.  
 - **🎉 Easy to Customize**: Perfect for learning and experimenting with front-end technologies.  
