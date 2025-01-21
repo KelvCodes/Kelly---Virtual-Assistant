@@ -23,3 +23,26 @@ Follow these steps to run the project locally:
    ```bash  
    git clone https://github.com/yourusername/kelly-virtual-assistant.git  
 
+2. Open the index.html file in your favorite web browser. 🌐  
+   No setup required—just play and have fun! 🎮
+
+    ---
+
+## 🤝 Contributing  
+
+Want to add new features or improve the game? We’d love your help! 💡  
+1. Fork this repository.  
+2. Create a new branch:  
+   
+bash  
+   git checkout -b feature-name
+  
+3. Make your changes and commit:  
+   
+bash  
+   git commit -m "Add your feature"
+  
+4. Push to your branch:  
+   
+bash  
+   git push origin feature-name
