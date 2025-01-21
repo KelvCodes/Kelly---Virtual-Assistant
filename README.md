@@ -12,7 +12,7 @@ An interactive assistant built with **HTML**, **CSS**, and **JavaScript**. Ready
 - **🎨 Responsive Design**: Optimized for both desktop 🖥️ and mobile 📱 devices.  
 - **✨ Clean UI**: Minimalist interface with sleek animations and transitions.
 - **🔊 Microphone Button**: Simple, one-click microphone activation for speech input. 
-- **🎉 Easy to Customize**: Perfect for learning and experimenting with front-end technologies.  
+- **🏆 Interactive Experience**: Have a conversation with Kelly and enjoy an intuitive experience. 
 
 ---
 
