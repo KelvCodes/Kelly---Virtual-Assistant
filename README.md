@@ -19,7 +19,7 @@ An interactive assistant built with **HTML**, **CSS**, and **JavaScript**. Ready
 ## 🚀 How to Play  
 1. **Click the Microphone Button**: Activate Kelly’s listening mode. 
 2.**Speak Your Command**: Ask Kelly anything or give a task.   
-3. **Track Your Progress**: Check the score to see if you’re leading or need a comeback.  
+3.**Get Instant Feedback**: Kelly will respond with the appropriate answer
 4. **Have Fun!** 🎊 The goal is simple: enjoy the game and beat the computer!  
 
 ---
