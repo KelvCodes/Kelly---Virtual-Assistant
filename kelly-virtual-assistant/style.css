@@ -1,0 +1,136 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100;200;300;400;500;600;700&display=swap");
+
+/* Reset and Global Styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto Mono", monospace;
+}
+
+body {
+  background-color: #ffffff;
+  color: #333;
+  line-height: 1.6;
+}
+
+/* Main Header Section */
+.main-header {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 20px;
+}
+
+.main-header .image-container {
+  margin-bottom: 20px;
+}
+
+.main-header .image-container .image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main-header .image-container .image img {
+  width: 90%;
+  max-width: 300px;
+  border-radius: 10px;
+}
+
+.main-header h1 {
+  color: goldenrod;
+  font-size: 2.5rem;
+  margin: 15px 0;
+}
+
+.main-header p {
+  color: black;
+  font-size: 1.2rem;
+  margin-bottom: 0px;
+}
+
+/* Interaction Section */
+.interaction-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  padding: 20px;
+}
+
+.interaction-section .input {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 300px;
+  max-width: 90%;
+  height: 50px;
+  border-radius: 25px;
+  background: goldenrod;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-bottom: 0px;
+}
+
+.interaction-section .input .talk {
+  background: transparent;
+  border: none;
+  outline: none;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.interaction-section .input .talk:hover {
+  transform: scale(1.1);
+}
+
+.interaction-section .input .talk i {
+  font-size: 25px;
+  color: #aed0d0;
+}
+
+.interaction-section .input .content {
+  color: #ffffff;
+  font-size: 1rem;
+  margin-left: 10px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+/* Footer Styles */
+.main-footer {
+  text-align: center;
+  padding: 15px;
+  background: #f4f4f4;
+  color: #333;
+  font-size: 0.9rem;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .main-header h1 {
+    font-size: 2rem;
+  }
+
+  .main-header p {
+    font-size: 1rem;
+  }
+
+  .interaction-section .input {
+    width: 90%;
+    height: 45px;
+  }
+
+  .interaction-section .input .content {
+    font-size: 0.9rem;
+  }
+}
