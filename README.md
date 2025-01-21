@@ -2,7 +2,7 @@
 
 # Kelly - Virtual Assistant 🤖 
 
-Welcome to the **Rock-Paper-Scissors Game**! 🎉  
+Welcome to the **Kelly - Vitual Assistant**! 🎉  
 A simple yet fun take on the classic game, built with 💻 **HTML**, 🎨 **CSS**, and 🛠️ **JavaScript**. Play against the computer, sharpen your decision-making skills, and enjoy smooth animations. Ready to dominate the game? Let’s go! 🚀  
 
 ---
