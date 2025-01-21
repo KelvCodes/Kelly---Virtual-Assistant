@@ -2,8 +2,8 @@
 
 # Kelly - Virtual Assistant 🤖 
 
-Welcome to the **Kelly - Vitual Assistant**! 🎉  
-A simple yet fun take on the classic game, built with 💻 **HTML**, 🎨 **CSS**, and 🛠️ **JavaScript**. Play against the computer, sharpen your decision-making skills, and enjoy smooth animations. Ready to dominate the game? Let’s go! 🚀  
+Welcome to the **Kelly - Vitual Assistant**! 🎉    
+An interactive assistant built with **HTML**, **CSS**, and **JavaScript**. Ready to assist with your tasks, provide answers, and make your day easier with voice commands. Let's dive into the future of interaction! 🚀  
 
 ---
 
