@@ -11,7 +11,7 @@ An interactive assistant built with **HTML**, **CSS**, and **JavaScript**. Ready
 - **🎙️ Voice Input**: Speak to Kelly and get instant responses.    
 - **🎨 Responsive Design**: Optimized for both desktop 🖥️ and mobile 📱 devices.  
 - **✨ Clean UI**: Minimalist interface with sleek animations and transitions.
-- **🏆 Live Score Tracker**: Keep tabs on your wins, losses, and ties in real-time.  
+- **🔊 Microphone Button**: Simple, one-click microphone activation for speech input. 
 - **🎉 Easy to Customize**: Perfect for learning and experimenting with front-end technologies.  
 
 ---
