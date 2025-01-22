@@ -117,6 +117,7 @@ function takeCommand(message){
         speak(finalText);
     }
 
+	    // Default case: Search Google for the query if it doesn't match predefined commands
     else {
         window.open(`https://www.google.com/search?q=${message.replace(" ", "+")}`, "_blank");
         const finalText = "I found some information for " + message + " on google";
