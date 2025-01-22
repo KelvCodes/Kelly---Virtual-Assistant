@@ -44,6 +44,7 @@ window.addEventListener('load', ()=>{
     wishMe();
 });
 
+// Initialize SpeechRecognition for voice commands (compatible with Chrome's webkitSpeechRecognition)
 const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
 
 const recognition =  new SpeechRecognition();
