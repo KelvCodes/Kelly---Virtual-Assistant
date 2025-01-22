@@ -15,6 +15,7 @@ function speak(text){
     window.speechSynthesis.speak(text_speak);
 }
 
+// Function to greet the user based on the current time of day
 function wishMe(){
     var day = new Date();
     var hour = day.getHours();
