@@ -57,6 +57,7 @@ recognition.onresult = (event)=>{
 
 }
 
+// Event listener for the button click to start voice recognitions
 btn.addEventListener('click', ()=>{
     content.textContent = "Listening...."
     recognition.start();
