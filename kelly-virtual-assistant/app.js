@@ -92,7 +92,7 @@ function takeCommand(message){
 	    speak(finalText);
   
     }
-
+   // Search Wikipedia for the query
     else if(message.includes('wikipedia')) {
         window.open(`https://en.wikipedia.org/wiki/${message.replace("wikipedia", "")}`, "_blank");
         const finalText = "This is what i found on wikipedia regarding " + message;
