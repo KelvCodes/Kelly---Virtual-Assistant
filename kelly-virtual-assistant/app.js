@@ -31,6 +31,7 @@ function wishMe(){
         speak("Good Afternoon Master...")
     }
 
+	    // Evening greeting for all other times
     else{
         speak("Good Evenining Sir...")
     }
