@@ -46,7 +46,6 @@ window.addEventListener('load', ()=>{
 
 // Initialize SpeechRecognition for voice commands (compatible with Chrome's webkitSpeechRecognition)
 const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
-
 const recognition =  new SpeechRecognition();
 
 // Event triggered when the speech recognition has a result
