@@ -1,3 +1,4 @@
+// Select the button element with the class 'talk' and the content element with the class 'content'
 const btn = document.querySelector('.talk')
 const content = document.querySelector('.content')
 
