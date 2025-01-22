@@ -110,7 +110,7 @@ function takeCommand(message){
         const finalText = date;
         speak(finalText);
     }
-
+// Open the calculator app
     else if(message.includes('calculator')) {
         window.open('Calculator:///')
         const finalText = "Opening Calculator";
