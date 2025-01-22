@@ -38,6 +38,7 @@ function wishMe(){
 
 }
 
+// Event listener to greet the user when the window loads
 window.addEventListener('load', ()=>{
     speak("Initializing JARVIS..");
     wishMe();
