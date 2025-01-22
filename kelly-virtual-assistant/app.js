@@ -80,6 +80,7 @@ function takeCommand(message){
         window.open("https://youtube.com", "_blank");
         speak("Opening Youtube...")
     }
+	    // Open Facebook
     else if(message.includes("open facebook")){
         window.open("https://facebook.com", "_blank");
         speak("Opening Facebook...")
