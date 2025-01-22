@@ -75,6 +75,7 @@ function takeCommand(message){
         window.open("https://google.com", "_blank");
         speak("Opening Google...")
     }
+	      // Open YouTube
     else if(message.includes("open youtube")){
         window.open("https://youtube.com", "_blank");
         speak("Opening Youtube...")
