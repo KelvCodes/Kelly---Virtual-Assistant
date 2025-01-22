@@ -8,7 +8,7 @@ function speak(text){
 
 	// Set properties for the speech (rate, volume, pitch)
     text_speak.rate = 1;// Normal speaking rate
-    text_speak.volume = 1;
+    text_speak.volume = 1; //Maximum volume
     text_speak.pitch = 1;
 
     window.speechSynthesis.speak(text_speak);
