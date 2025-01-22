@@ -19,7 +19,9 @@ function speak(text){
 function wishMe(){
     var day = new Date();
     var hour = day.getHours();
-
+	
+// Morning greeting if the time is between 12 AM and 12 PM
+	
     if(hour>=0 && hour<12){
         speak("Good Morning Shivam...")
     }
