@@ -66,6 +66,7 @@ btn.addEventListener('click', ()=>{
 
 // Function to process user commands
 function takeCommand(message){
+	// Check for greetings like 'hey' or 'hello'
     if(message.includes('hey') || message.includes('hello')){
         speak("Hello Sir, How May I Help You?");
     }
