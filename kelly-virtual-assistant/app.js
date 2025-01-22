@@ -104,7 +104,7 @@ function takeCommand(message){
         const finalText = time;
         speak(finalText);
     }
-
+// Provide the current date
     else if(message.includes('date')) {
         const date = new Date().toLocaleString(undefined, {month: "short", day: "numeric"})
         const finalText = date;
