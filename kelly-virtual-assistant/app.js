@@ -2,7 +2,7 @@
 const btn = document.querySelector('.talk')
 const content = document.querySelector('.content')
 
-
+// Function to speak a given text using the Web Speech API
 function speak(text){
     const text_speak = new SpeechSynthesisUtterance(text);
 
