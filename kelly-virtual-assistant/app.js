@@ -98,7 +98,7 @@ function takeCommand(message){
         const finalText = "This is what i found on wikipedia regarding " + message;
         speak(finalText);
     }
-
+// Provide the current time
     else if(message.includes('time')) {
         const time = new Date().toLocaleString(undefined, {hour: "numeric", minute: "numeric"})
         const finalText = time;
