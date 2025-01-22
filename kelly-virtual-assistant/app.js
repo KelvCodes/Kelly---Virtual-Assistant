@@ -11,6 +11,7 @@ function speak(text){
     text_speak.volume = 1; //Maximum volume
     text_speak.pitch = 1;// Normal pitch
 
+	 // Use the Web Speech API to speak the text
     window.speechSynthesis.speak(text_speak);
 }
 
