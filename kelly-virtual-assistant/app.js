@@ -53,7 +53,7 @@ recognition.onresult = (event)=>{
     const currentIndex = event.resultIndex;// Get the index of the result
     const transcript = event.results[currentIndex][0].transcript;// Get the spoken text
     content.textContent = transcript;// Display the spoken text on the web page
-    takeCommand(transcript.toLowerCase());
+    takeCommand(transcript.toLowerCase());nd
 
 }
 
