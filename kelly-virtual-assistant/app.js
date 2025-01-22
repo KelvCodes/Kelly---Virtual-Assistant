@@ -63,6 +63,8 @@ btn.addEventListener('click', ()=>{
     recognition.start(); // Start voice recognition
 })
 
+
+// Function to process user commands
 function takeCommand(message){
     if(message.includes('hey') || message.includes('hello')){
         speak("Hello Sir, How May I Help You?");
