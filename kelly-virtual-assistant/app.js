@@ -26,6 +26,7 @@ function wishMe(){
         speak("Good Morning Shivam...")
     }
 
+	    // Afternoon greeting if the time is between 12 PM and 5 PM
     else if(hour>12 && hour<17){
         speak("Good Afternoon Master...")
     }
