@@ -50,7 +50,7 @@ const recognition =  new SpeechRecognition();
 
 // Event triggered when the speech recognition has a result
 recognition.onresult = (event)=>{
-    const currentIndex = event.resultIndex;
+    const currentIndex = event.resultIndex;// Get the index of the result
     const transcript = event.results[currentIndex][0].transcript;
     content.textContent = transcript;
     takeCommand(transcript.toLowerCase());
