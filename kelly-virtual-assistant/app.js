@@ -49,6 +49,7 @@ const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecogni
 
 const recognition =  new SpeechRecognition();
 
+// Event triggered when the speech recognition has a result
 recognition.onresult = (event)=>{
     const currentIndex = event.resultIndex;
     const transcript = event.results[currentIndex][0].transcript;
