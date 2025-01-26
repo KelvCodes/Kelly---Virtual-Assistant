@@ -69,7 +69,7 @@ This project is open-source and available under the **MIT License**. Feel free t
 Have feedback, ideas, or just want to chat? Reach out to me:  
 📧 Email: **[onlykelvin06@gmail.com ](mailto:onlykelvin06@gmail.com)**  
 💼 LinkedIn: **[Kelvin Yeboah](www.linkedin.com/in/kelvin-agyare-yeboah-6728a7301)**  
-📸 YouTube: **[The Tech Tutor ]()**  
+📸 YouTube: **[The Tech Tutor ](https://www.youtube.com/@TechTutor_Tv)**  
  
 ---
 
