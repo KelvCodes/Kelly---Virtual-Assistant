@@ -17,7 +17,7 @@ body {
 
 /* ======= Main Header Section ======= */
 .main-header {
-  min-height: 100vh;
+  min-height: 100vh; /* Full viewport height */
   display: flex;
   flex-direction: column;
   align-items: center;
