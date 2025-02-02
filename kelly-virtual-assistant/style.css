@@ -15,7 +15,7 @@ body {
   line-height: 1.6;/* Improves text readability */
 }
 
-
+/* ======= Main Header Section ======= */
 .main-header {
   min-height: 100vh;
   display: flex;
