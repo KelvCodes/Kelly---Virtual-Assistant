@@ -78,7 +78,7 @@ body {
   max-width: 90%;/* Makes it responsive */
   height: 50px;
   border-radius: 25px;/* Rounded input box */
-  background: goldenrod;
+  background: goldenrod;/* Matches header text color */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   margin-bottom: 0px;
 }
