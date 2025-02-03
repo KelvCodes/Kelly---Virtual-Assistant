@@ -105,7 +105,7 @@ body {
 /* Microphone Icon Styling */
 .interaction-section .input .talk i {
   font-size: 25px;
-  color: #aed0d0;
+  color: #aed0d0; /* Light blue color */
 }
 
 .interaction-section .input .content {
