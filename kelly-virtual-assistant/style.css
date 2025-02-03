@@ -77,7 +77,7 @@ body {
   width: 300px;
   max-width: 90%;/* Makes it responsive */
   height: 50px;
-  border-radius: 25px;
+  border-radius: 25px;/* Rounded input box */
   background: goldenrod;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   margin-bottom: 0px;
