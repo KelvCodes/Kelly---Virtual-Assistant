@@ -94,7 +94,7 @@ body {
   justify-content: center;
   align-items: center;
   cursor: pointer;
-  transition: transform 0.2s ease;
+  transition: transform 0.2s ease; /* Smooth animation */
 }
 
 .interaction-section .input .talk:hover {
