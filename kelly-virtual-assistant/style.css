@@ -83,6 +83,7 @@ body {
   margin-bottom: 0px;
 }
 
+/* Talk Button (Microphone Icon) */
 .interaction-section .input .talk {
   background: transparent;
   border: none;
