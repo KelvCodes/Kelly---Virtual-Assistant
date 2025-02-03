@@ -102,6 +102,7 @@ body {
   transform: scale(1.1); /* Slight increase in size on hover */
 }
 
+/* Microphone Icon Styling */
 .interaction-section .input .talk i {
   font-size: 25px;
   color: #aed0d0;
