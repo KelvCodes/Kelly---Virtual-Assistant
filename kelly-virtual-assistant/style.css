@@ -99,7 +99,7 @@ body {
 
 /* Hover Effect for Talk Button */
 .interaction-section .input .talk:hover {
-  transform: scale(1.1);
+  transform: scale(1.1); /* Slight increase in size on hover */
 }
 
 .interaction-section .input .talk i {
