@@ -46,7 +46,7 @@ body {
 }
 
 .main-header h1 {
-  color: goldenrod;
+  color: goldenrod;/* Highlighted color for visibility */
   font-size: 3rem;
   margin: 15px 0;
 }
