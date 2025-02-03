@@ -27,7 +27,7 @@ body {
 }
 /* Image Container */
 .main-header .image-container {
-  margin-bottom: 20px;
+  margin-bottom: 20px;/* Adds spacing below the image */
 }
 
 .main-header .image-container .image {
