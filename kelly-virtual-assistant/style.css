@@ -79,7 +79,7 @@ body {
   height: 50px;
   border-radius: 25px;/* Rounded input box */
   background: goldenrod;/* Matches header text color */
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adds depth */
   margin-bottom: 0px;
 }
 
