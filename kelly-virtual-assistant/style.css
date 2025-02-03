@@ -75,7 +75,7 @@ body {
   justify-content: center;
   align-items: center;
   width: 300px;
-  max-width: 90%;
+  max-width: 90%;/* Makes it responsive */
   height: 50px;
   border-radius: 25px;
   background: goldenrod;
