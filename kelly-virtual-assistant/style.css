@@ -97,6 +97,7 @@ body {
   transition: transform 0.2s ease; /* Smooth animation */
 }
 
+/* Hover Effect for Talk Button */
 .interaction-section .input .talk:hover {
   transform: scale(1.1);
 }
