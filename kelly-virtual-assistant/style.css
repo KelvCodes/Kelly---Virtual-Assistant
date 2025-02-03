@@ -45,6 +45,7 @@ body {
   border-radius: 10px;/* Soft rounded corners */
 }
 
+/* Main Header Title */
 .main-header h1 {
   color: goldenrod;/* Highlighted color for visibility */
   font-size: 3rem;
