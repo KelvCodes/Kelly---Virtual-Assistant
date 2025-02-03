@@ -41,7 +41,7 @@ body {
 .main-header .image-container .image img {
   width: 90%;
   max-width: 300px;/* Ensures the image doesn’t get too large */
-  border-radius: 10px;
+  border-radius: 10px;/* Soft rounded corners */
 }
 
 .main-header h1 {
